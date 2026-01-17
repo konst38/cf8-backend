@@ -10,5 +10,6 @@ JWT_SECRET = "ενα jwt secret key απο καποιον jwt secret key generat
 Στη συνεχεια ο χρηστης πρεπει να τρεξει την εντολη npm install μεσα απο ενα command prompt terminal για να εγκτασταθουν τα dependencies.  
 Η εφαρμογη τρεχει με την εντολη npm run dev και παλι σε ενα command prompt.  
 Η εφαρμογη γινεται build με την εντολη npm run build.  
+Μετα το bulid η javascript τρεχει με την εντολη npm run start.  
 Τα tests τρεχουν με την εντολη npm run test.  
 Το swagger χρησιμοποιει το endpoint /api/docs. 
